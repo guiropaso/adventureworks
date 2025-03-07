@@ -17,6 +17,8 @@ Customer Details: This dataset includes information about our customers, such as
 
 Order and Product details: This dataset includes information about the orders such as order quantities and amount, order dates, territories, etc. and information about the products such as categories and sub-categories.
 
+![Adventure Works Insights](https://github.com/guiropaso/images/blob/99f5993bef566f603c8b06f18f77786b5f5206b9/IMG_0414.heic)
+
 # Comprehensive Performance Report
 
 ## Executive Summary
