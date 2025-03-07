@@ -60,3 +60,5 @@ Over the past two years, AdventureWorks' average order value has dropped by near
  - Refined Customer Segmentation & Targeting: Tailoring advertising, email campaigns, and loyalty programs for the identified ideal customer profile will improve conversion rates and customer lifetime value.
  
  This approach provides a clear picture of revenue trends, customer demographics, and market opportunities. By leveraging these insights, AdventureWorks can refine its sales strategy, enhance customer engagement, and drive sustained business growth.
+
+ You can explore the live dashboard [here.](https://public.tableau.com/views/Project1Guille/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
