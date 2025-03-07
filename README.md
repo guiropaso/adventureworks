@@ -17,7 +17,6 @@ Customer Details: This dataset includes information about our customers, such as
 
 Order and Product details: This dataset includes information about the orders such as order quantities and amount, order dates, territories, etc. and information about the products such as categories and sub-categories.
 
-![Image](https://github.com/user-attachments/assets/2e402140-234c-4135-86cf-0b254b017a87)
 
 # Comprehensive Performance Report
 
@@ -27,17 +26,20 @@ Over the past two years, AdventureWorks' average order value has dropped by near
 ## Key Findings & Business Implications
 **Declining Average Order Value, Yet Rising Revenue**
 
- - The average order value has dropped by nearly 80% in the last two years.
- - Despite this decline, total revenue has doubled (+100%), indicating an increase in transaction volume rather than higher-value purchases.
+ - The average order value has dropped by nearly 80% in the last two years
+ - Despite this decline, total revenue has doubled (+100%), indicating an increase in transaction volume rather than higher-value purchases
+![Image](https://github.com/user-attachments/assets/4ad19c92-ee97-41b7-be36-9f33a63382b9)
  
  **Bicycles Drive the Business**
  
- - Bikes account for 86% of total sales, making them the primary revenue driver.
- - The strong demand for this category suggests an opportunity to refine pricing, promotions, and inventory strategies around bike sales.
+ - Bikes account for 86% of total sales, making them the primary revenue driver
+ - The strong demand for this category suggests an opportunity to refine pricing, promotions, and inventory strategies around bike sales
+![Image](https://github.com/user-attachments/assets/3b56e532-0f26-47ba-8db2-3de9126e29ba)
  
  **Southwest Territory Leads in Sales Performance**
  - The Southwest region generates 22% of total sales, making it the most critical market
  - Regional sales trends suggest a need for targeted marketing and localized promotions to maintain and expand this stronghold
+![Image](https://github.com/user-attachments/assets/77aae265-a291-499c-a0d4-a8dc14cf38f3)
  
  **Defining the Ideal Customer Profile (ICP)**
  Through demographic analysis, we identified the AdventureWorks ideal customer, which provides valuable insights for targeted marketing and product positioning:
@@ -49,7 +51,7 @@ Over the past two years, AdventureWorks' average order value has dropped by near
  - Annual Income: Between $25,000 – $75,000
  - Home Ownership: Homeowner
  
- 
+ ![Image](https://github.com/user-attachments/assets/ec5d1843-7433-403f-b801-d68d18c5f137)
 
 # Strategic Recommendations
 
